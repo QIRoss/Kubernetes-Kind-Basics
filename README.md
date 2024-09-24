@@ -1,4 +1,4 @@
-# Kubernetes Basic
+# Kubernetes (Kind - Kubernetes in Docker) Basic
 
 Kubernetes Basic Setup for FastAPI Application
 
